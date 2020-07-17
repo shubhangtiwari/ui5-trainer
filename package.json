@@ -1,0 +1,30 @@
+{
+  "name": "ui5-trainer",
+  "version": "1.0.0",
+  "description": "SAP UI5 Trainer",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhangtiwari/ui5-trainer.git"
+  },
+  "keywords": [
+    "sap",
+    "ui5",
+    "js",
+    "javascript",
+    "framework",
+    "train"
+  ],
+  "author": "Shubhang Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhangtiwari/ui5-trainer/issues"
+  },
+  "homepage": "https://github.com/shubhangtiwari/ui5-trainer#readme"
+}
