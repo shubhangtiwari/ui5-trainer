@@ -2,12 +2,12 @@
   "name": "ui5-trainer",
   "version": "1.0.0",
   "description": "SAP UI5 Trainer",
-  "main": "index.js",
+  "main": "app.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,7 +20,7 @@
     "js",
     "javascript",
     "framework",
-    "train"
+    "training"
   ],
   "author": "Shubhang Tiwari",
   "license": "ISC",
@@ -29,8 +29,7 @@
   },
   "homepage": "https://github.com/shubhangtiwari/ui5-trainer#readme",
   "dependencies": {
-    "connect-livereload": "^0.6.1",
     "express": "^4.17.1",
-    "livereload": "^0.9.1"
+    "fs": "0.0.1-security"
   }
 }
